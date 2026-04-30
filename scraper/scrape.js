@@ -40,7 +40,7 @@ async function main() {
   await page.goto(URL, { waitUntil: "domcontentloaded", timeout: 60000 });
 
   // Wait for the JSON-LD ItemList AND for at least one event card to be rendered.
-  await page.waitForSelector('script[type="application/ld+json"]', { timeout: 30000 });
+  await page.waitForSelector('script[type="application/ld+json"]', { state: "attached", timeout: 30000 });
   try {
     await page.waitForSelector("section.discover-vertical-event-card", { timeout: 30000 });
   } catch (e) {
