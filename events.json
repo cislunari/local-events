@@ -1,0 +1,25 @@
+{
+  "snapshotDate": "2026-04-28",
+  "fetchedAt": "2026-04-28T13:31:00Z",
+  "source": "https://www.eventbrite.de/d/germany--berlin--pankow/events--today/?page=1",
+  "events": [
+    { "time": "14:00", "title": "Workshop — Intro to the Würth Elektronik-Lab", "venue": "MotionLab.Berlin", "address": "Bouchéstraße 12", "path": "/e/workshop-intro-to-the-wurth-elektronik-lab-tickets-1004479775047" },
+    { "time": "17:00", "title": "Feel-Good Flow (40+) (DE/ENG)", "venue": "Wrangelstraße 54", "address": "Wrangelstraße 54", "path": "/e/feel-good-flow-40-deeng-tickets-1986627349882" },
+    { "time": "18:00", "title": "Machine Knitting Workshop — Beginner", "venue": "Alte Münze", "address": "Molkenmarkt 2", "path": "/e/machine-knitting-workshop-beginner-tickets-1981419685618" },
+    { "time": "18:00", "title": "Sourdough: Everything but Bread — Workshop", "venue": "Edible Alchemy in the Remise", "address": "Moosdorfstraße 7–9", "path": "/e/sourdough-everything-but-bread-workshop-tickets-1984042482474" },
+    { "time": "18:15", "title": "Vinyasa & Sound", "venue": "Wrangelstraße 54", "address": "Wrangelstraße 54", "path": "/e/vinyasa-sound-tickets-1558955751619" },
+    { "time": "18:30", "title": "Curso de yoga tradicional", "venue": "MahaYoga Zentrum", "address": "Brunnenstr. 147", "path": "/e/entradas-curso-de-yoga-tradicional-1815352009729" },
+    { "time": "18:30", "title": "KörperbewusstSEIN — Sicher im Körper landen", "venue": "Ōsmos Studio — Counseling & Massage", "address": "Okerstraße 38", "path": "/e/korperbewusstsein-sicher-im-korper-landen-tickets-1984892240122" },
+    { "time": "19:00", "title": "FAR OUT — After Work ab 19 Uhr", "venue": "MAXXIM CLUB BERLIN", "address": "Joachimsthaler Straße 15", "path": "/e/far-out-after-work-ab-19-uhr-tickets-1027024516977" },
+    { "time": "19:00", "title": "Sonia Rodríguez — \"Blurred realities\"", "venue": "Instituto Cervantes Berlin", "address": "Rosenstraße 18", "path": "/e/sonia-rodr-iguez-blurred-realities-tickets-1976701304814" },
+    { "time": "19:00", "title": "Machine Knitting — Free Practice Hours", "venue": "Alte Münze", "address": "Molkenmarkt 2", "path": "/e/machine-knitting-free-practice-hours-tickets-1982775597186" },
+    { "time": "19:00", "title": "Great Comedy Open-Mic", "venue": "Tati Goes Underground", "address": "Metzer Straße 2", "path": "/e/great-comedy-open-mic-tickets-1981358158589" },
+    { "time": "19:00", "title": "Presentation Lab — Structured Communication Training", "venue": "Presentation School Berlin", "address": "Chausseestraße 86", "path": "/e/presentation-lab-structured-communication-training-for-professionals-tickets-1979854679643" },
+    { "time": "19:20", "title": "Yoga-Meditation im Schillerkiez", "venue": "raum 5 — Praxis für Körperarbeit", "address": "Mahlower Straße 5", "path": "/e/yoga-meditation-im-schillerkiez-tickets-1985784326376" },
+    { "time": "19:30", "title": "Die Rickenbackers — Pro Jam Session", "venue": "ART Stalker — Kunst + Bar + Events", "address": "Kaiser-Friedrich-Straße 67", "path": "/e/die-rickenbackers-pro-jam-session-tickets-1979224548905" },
+    { "time": "19:45", "title": "Yoga Foundations — A Beginner-Friendly Practice", "venue": "Wrangelstraße 54", "address": "Wrangelstraße 54", "path": "/e/yoga-foundations-a-beginner-friendly-practice-tickets-1980185931426" },
+    { "time": "20:00", "title": "SANAM + gleo", "venue": "silent green Kulturquartier", "address": "Gerichtstraße 35", "path": "/e/sanam-gleo-tickets-1720100439719" },
+    { "time": "20:00", "title": "Tuesday Boozeday — English Stand-Up Comedy", "venue": "Sisyfass", "address": "Wildenbruchstraße 7", "path": "/e/tuesday-boozeday-english-stand-up-comedy-in-neukolln-sisyfass-bar-tickets-1984371956941" },
+    { "time": "20:00", "title": "Laughing Spree — English Comedy on a Boat", "venue": "Floating Lounge", "address": "Mühlenstraße 73", "path": "/e/laughing-spree-english-comedy-on-a-boat-free-shots-2804-registration-1983711699092" }
+  ]
+}
