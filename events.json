@@ -1,25 +1,105 @@
 {
-  "snapshotDate": "2026-04-28",
-  "fetchedAt": "2026-04-28T13:31:00Z",
+  "snapshotDate": "2026-05-01",
+  "fetchedAt": "2026-05-01T05:38:06.398Z",
   "source": "https://www.eventbrite.de/d/germany--berlin--pankow/events--today/?page=1",
   "events": [
-    { "time": "14:00", "title": "Workshop — Intro to the Würth Elektronik-Lab", "venue": "MotionLab.Berlin", "address": "Bouchéstraße 12", "path": "/e/workshop-intro-to-the-wurth-elektronik-lab-tickets-1004479775047" },
-    { "time": "17:00", "title": "Feel-Good Flow (40+) (DE/ENG)", "venue": "Wrangelstraße 54", "address": "Wrangelstraße 54", "path": "/e/feel-good-flow-40-deeng-tickets-1986627349882" },
-    { "time": "18:00", "title": "Machine Knitting Workshop — Beginner", "venue": "Alte Münze", "address": "Molkenmarkt 2", "path": "/e/machine-knitting-workshop-beginner-tickets-1981419685618" },
-    { "time": "18:00", "title": "Sourdough: Everything but Bread — Workshop", "venue": "Edible Alchemy in the Remise", "address": "Moosdorfstraße 7–9", "path": "/e/sourdough-everything-but-bread-workshop-tickets-1984042482474" },
-    { "time": "18:15", "title": "Vinyasa & Sound", "venue": "Wrangelstraße 54", "address": "Wrangelstraße 54", "path": "/e/vinyasa-sound-tickets-1558955751619" },
-    { "time": "18:30", "title": "Curso de yoga tradicional", "venue": "MahaYoga Zentrum", "address": "Brunnenstr. 147", "path": "/e/entradas-curso-de-yoga-tradicional-1815352009729" },
-    { "time": "18:30", "title": "KörperbewusstSEIN — Sicher im Körper landen", "venue": "Ōsmos Studio — Counseling & Massage", "address": "Okerstraße 38", "path": "/e/korperbewusstsein-sicher-im-korper-landen-tickets-1984892240122" },
-    { "time": "19:00", "title": "FAR OUT — After Work ab 19 Uhr", "venue": "MAXXIM CLUB BERLIN", "address": "Joachimsthaler Straße 15", "path": "/e/far-out-after-work-ab-19-uhr-tickets-1027024516977" },
-    { "time": "19:00", "title": "Sonia Rodríguez — \"Blurred realities\"", "venue": "Instituto Cervantes Berlin", "address": "Rosenstraße 18", "path": "/e/sonia-rodr-iguez-blurred-realities-tickets-1976701304814" },
-    { "time": "19:00", "title": "Machine Knitting — Free Practice Hours", "venue": "Alte Münze", "address": "Molkenmarkt 2", "path": "/e/machine-knitting-free-practice-hours-tickets-1982775597186" },
-    { "time": "19:00", "title": "Great Comedy Open-Mic", "venue": "Tati Goes Underground", "address": "Metzer Straße 2", "path": "/e/great-comedy-open-mic-tickets-1981358158589" },
-    { "time": "19:00", "title": "Presentation Lab — Structured Communication Training", "venue": "Presentation School Berlin", "address": "Chausseestraße 86", "path": "/e/presentation-lab-structured-communication-training-for-professionals-tickets-1979854679643" },
-    { "time": "19:20", "title": "Yoga-Meditation im Schillerkiez", "venue": "raum 5 — Praxis für Körperarbeit", "address": "Mahlower Straße 5", "path": "/e/yoga-meditation-im-schillerkiez-tickets-1985784326376" },
-    { "time": "19:30", "title": "Die Rickenbackers — Pro Jam Session", "venue": "ART Stalker — Kunst + Bar + Events", "address": "Kaiser-Friedrich-Straße 67", "path": "/e/die-rickenbackers-pro-jam-session-tickets-1979224548905" },
-    { "time": "19:45", "title": "Yoga Foundations — A Beginner-Friendly Practice", "venue": "Wrangelstraße 54", "address": "Wrangelstraße 54", "path": "/e/yoga-foundations-a-beginner-friendly-practice-tickets-1980185931426" },
-    { "time": "20:00", "title": "SANAM + gleo", "venue": "silent green Kulturquartier", "address": "Gerichtstraße 35", "path": "/e/sanam-gleo-tickets-1720100439719" },
-    { "time": "20:00", "title": "Tuesday Boozeday — English Stand-Up Comedy", "venue": "Sisyfass", "address": "Wildenbruchstraße 7", "path": "/e/tuesday-boozeday-english-stand-up-comedy-in-neukolln-sisyfass-bar-tickets-1984371956941" },
-    { "time": "20:00", "title": "Laughing Spree — English Comedy on a Boat", "venue": "Floating Lounge", "address": "Mühlenstraße 73", "path": "/e/laughing-spree-english-comedy-on-a-boat-free-shots-2804-registration-1983711699092" }
+    {
+      "time": "11:00",
+      "title": "Brotbackkurs in Berlin: Sauerteig Brot selber backen",
+      "venue": "Goltzstraße 32",
+      "address": "Goltzstraße 32",
+      "path": "/e/brotbackkurs-in-berlin-sauerteig-brot-selber-backen-tickets-1970194829772"
+    },
+    {
+      "time": "11:30",
+      "title": "Aerial Yoga in Berlin (Montag bis Freitag)",
+      "venue": "Herbertstraße 11",
+      "address": "Herbertstraße 11",
+      "path": "/e/aerial-yoga-in-berlin-montag-bis-freitag-tickets-948954587717"
+    },
+    {
+      "time": "17:00",
+      "title": "Feiertagsspecial: Trüffel-Pasta",
+      "venue": "Goltzstraße 32",
+      "address": "Goltzstraße 32",
+      "path": "/e/feiertagsspecial-truffel-pasta-tickets-1978090290307"
+    },
+    {
+      "time": "17:30",
+      "title": "Inner Power Club für Eltern und Erwachsene",
+      "venue": "Stolzenfelsstraße 1 A",
+      "address": "Stolzenfelsstraße 1 A",
+      "path": "/e/inner-power-club-fur-eltern-und-erwachsene-tickets-1978853559265"
+    },
+    {
+      "time": "18:00",
+      "title": "Machine Knitting Workshop - Beginner",
+      "venue": "Alte Münze",
+      "address": "Molkenmarkt 2",
+      "path": "/e/machine-knitting-workshop-beginner-tickets-1981419685618"
+    },
+    {
+      "time": "18:00",
+      "title": "Machine Knitting - Free practice hours",
+      "venue": "Alte Münze",
+      "address": "Molkenmarkt 2",
+      "path": "/e/machine-knitting-free-practice-hours-tickets-1982775597186"
+    },
+    {
+      "time": "19:00",
+      "title": "Open Sofa Sessions (Poet/Songwriter Open Mic - Hosted by Kilkelly)",
+      "venue": "Hank Chinaski",
+      "address": "Koloniestraße 32",
+      "path": "/e/open-sofa-sessions-poetsongwriter-open-mic-hosted-by-kilkelly-tickets-1711204662209"
+    },
+    {
+      "time": "19:00",
+      "title": "Pottery Club – For Everyone",
+      "venue": "Falckensteinstraße 6",
+      "address": "Falckensteinstraße 6",
+      "path": "/e/pottery-club-for-everyone-tickets-1977985028466"
+    },
+    {
+      "time": "19:00",
+      "title": "Die Early Bird Party: Der frühe Vogel tanzt den Beat",
+      "venue": "ART Stalker - Kunst + Bar + Events",
+      "address": "Kaiser-Friedrich-Straße 67",
+      "path": "/e/die-early-bird-party-der-fruhe-vogel-tanzt-den-beat-tickets-905897412547"
+    },
+    {
+      "time": "19:00",
+      "title": "Ecstatic Dance & Cacao @Pyramid Floor-Life Artist(Christian Rippel)",
+      "venue": "Life Artists Creators Hub",
+      "address": "Milastraße 4",
+      "path": "/e/ecstatic-dance-cacao-pyramid-floor-life-artistchristian-rippel-tickets-1981004865881"
+    },
+    {
+      "time": "19:00",
+      "title": "Ecstatic Dance  & Psychedelic Kirtan //(Sri Apollo & Rippel)",
+      "venue": "Life Artists Creators Hub",
+      "address": "Milastraße 4",
+      "path": "/e/ecstatic-dance-psychedelic-kirtan-sri-apollo-rippel-tickets-1981003890965"
+    },
+    {
+      "time": "19:30",
+      "title": "Teatro improvisado y standup - Las Comadres y ESIMPRO #27",
+      "venue": "Wein Salón",
+      "address": "Schreinerstraße 59",
+      "path": "/e/teatro-improvisado-y-standup-las-comadres-y-esimpro-27-tickets-1979673599026"
+    },
+    {
+      "time": "21:00",
+      "title": "Club Room Party Berlin",
+      "venue": "Paradise Club Berlin",
+      "address": "Bismarckstraße 90",
+      "path": "/e/club-room-party-berlin-tickets-1981813788390"
+    },
+    {
+      "time": "21:30",
+      "title": "Space Sessions with AŸA//ALFAIA",
+      "venue": "House of Music",
+      "address": "Revaler Straße 99",
+      "path": "/e/space-sessions-with-ayaalfaia-tickets-1983351215877"
+    }
   ]
 }
