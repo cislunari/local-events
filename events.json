@@ -1,105 +1,147 @@
 {
-  "snapshotDate": "2026-05-01",
-  "fetchedAt": "2026-05-01T05:38:06.398Z",
+  "snapshotDate": "2026-05-02",
+  "fetchedAt": "2026-05-02T04:55:26.297Z",
   "source": "https://www.eventbrite.de/d/germany--berlin--pankow/events--today/?page=1",
   "events": [
     {
+      "time": "10:00",
+      "title": "Tantra Seminar Paare - Traditionelles Tantra mit Kerstin Inkmann",
+      "venue": "_innenraum",
+      "address": "Landsberger Allee 61",
+      "path": "/e/tantra-seminar-paare-traditionelles-tantra-mit-kerstin-inkmann-tickets-1983431971419"
+    },
+    {
       "time": "11:00",
-      "title": "Brotbackkurs in Berlin: Sauerteig Brot selber backen",
-      "venue": "Goltzstraße 32",
-      "address": "Goltzstraße 32",
-      "path": "/e/brotbackkurs-in-berlin-sauerteig-brot-selber-backen-tickets-1970194829772"
-    },
-    {
-      "time": "11:30",
-      "title": "Aerial Yoga in Berlin (Montag bis Freitag)",
-      "venue": "Herbertstraße 11",
-      "address": "Herbertstraße 11",
-      "path": "/e/aerial-yoga-in-berlin-montag-bis-freitag-tickets-948954587717"
-    },
-    {
-      "time": "17:00",
-      "title": "Feiertagsspecial: Trüffel-Pasta",
-      "venue": "Goltzstraße 32",
-      "address": "Goltzstraße 32",
-      "path": "/e/feiertagsspecial-truffel-pasta-tickets-1978090290307"
-    },
-    {
-      "time": "17:30",
-      "title": "Inner Power Club für Eltern und Erwachsene",
-      "venue": "Stolzenfelsstraße 1 A",
-      "address": "Stolzenfelsstraße 1 A",
-      "path": "/e/inner-power-club-fur-eltern-und-erwachsene-tickets-1978853559265"
-    },
-    {
-      "time": "18:00",
       "title": "Machine Knitting Workshop - Beginner",
       "venue": "Alte Münze",
       "address": "Molkenmarkt 2",
       "path": "/e/machine-knitting-workshop-beginner-tickets-1981419685618"
     },
     {
-      "time": "18:00",
+      "time": "11:00",
       "title": "Machine Knitting - Free practice hours",
       "venue": "Alte Münze",
       "address": "Molkenmarkt 2",
       "path": "/e/machine-knitting-free-practice-hours-tickets-1982775597186"
     },
     {
-      "time": "19:00",
-      "title": "Open Sofa Sessions (Poet/Songwriter Open Mic - Hosted by Kilkelly)",
-      "venue": "Hank Chinaski",
-      "address": "Koloniestraße 32",
-      "path": "/e/open-sofa-sessions-poetsongwriter-open-mic-hosted-by-kilkelly-tickets-1711204662209"
+      "time": "11:00",
+      "title": "Macaron Backkurs in Berlin: Französische Versuchungen",
+      "venue": "Goltzstraße 32",
+      "address": "Goltzstraße 32",
+      "path": "/e/macaron-backkurs-in-berlin-franzosische-versuchungen-tickets-1969296380486"
     },
     {
-      "time": "19:00",
-      "title": "Pottery Club – For Everyone",
-      "venue": "Falckensteinstraße 6",
-      "address": "Falckensteinstraße 6",
-      "path": "/e/pottery-club-for-everyone-tickets-1977985028466"
+      "time": "12:00",
+      "title": "Power Pilates",
+      "venue": "Wrangelstraße 54",
+      "address": "Wrangelstraße 54",
+      "path": "/e/power-pilates-tickets-1984364626014"
     },
     {
-      "time": "19:00",
-      "title": "Die Early Bird Party: Der frühe Vogel tanzt den Beat",
-      "venue": "ART Stalker - Kunst + Bar + Events",
-      "address": "Kaiser-Friedrich-Straße 67",
-      "path": "/e/die-early-bird-party-der-fruhe-vogel-tanzt-den-beat-tickets-905897412547"
+      "time": "14:00",
+      "title": "Armwork & Drills + Orchidaceae Fusion Combos, 8 hrs with Piny Orchidaceae",
+      "venue": "Tanzraum Wedding",
+      "address": "Oudenarder Straße 16-20",
+      "path": "/e/armwork-drills-orchidaceae-fusion-combos-8-hrs-with-piny-orchidaceae-tickets-1980413489057"
     },
     {
-      "time": "19:00",
-      "title": "Ecstatic Dance & Cacao @Pyramid Floor-Life Artist(Christian Rippel)",
-      "venue": "Life Artists Creators Hub",
-      "address": "Milastraße 4",
-      "path": "/e/ecstatic-dance-cacao-pyramid-floor-life-artistchristian-rippel-tickets-1981004865881"
+      "time": "14:00",
+      "title": "Learn more about Black & Queer Feminism in Berlin",
+      "venue": "Königskolonnaden",
+      "address": "Potsdamer Straße",
+      "path": "/e/learn-more-about-black-queer-feminism-in-berlin-tickets-943432139927"
     },
     {
-      "time": "19:00",
-      "title": "Ecstatic Dance  & Psychedelic Kirtan //(Sri Apollo & Rippel)",
-      "venue": "Life Artists Creators Hub",
-      "address": "Milastraße 4",
-      "path": "/e/ecstatic-dance-psychedelic-kirtan-sri-apollo-rippel-tickets-1981003890965"
+      "time": "15:00",
+      "title": "Berlin Daytime Underground Party Tour",
+      "venue": "Spätkauf",
+      "address": "Brückenstraße 15",
+      "path": "/e/berlin-daytime-underground-party-tour-tickets-1774740920869"
+    },
+    {
+      "time": "15:15",
+      "title": "Aerial Yoga in Berlin (Samstag und Sonntag)",
+      "venue": "Herbertstraße 11",
+      "address": "Herbertstraße 11",
+      "path": "/e/aerial-yoga-in-berlin-samstag-und-sonntag-tickets-948977064947"
     },
     {
       "time": "19:30",
-      "title": "Teatro improvisado y standup - Las Comadres y ESIMPRO #27",
-      "venue": "Wein Salón",
-      "address": "Schreinerstraße 59",
-      "path": "/e/teatro-improvisado-y-standup-las-comadres-y-esimpro-27-tickets-1979673599026"
+      "title": "Bad People: English Stand Up Comedy with Tera! (Neukölln)",
+      "venue": "Sisyfass",
+      "address": "Wildenbruchstraße 7",
+      "path": "/e/bad-people-english-stand-up-comedy-with-tera-neukolln-tickets-927740325287"
+    },
+    {
+      "time": "19:30",
+      "title": "Sinatra Dinner & Show",
+      "venue": "Hotel Palace Berlin",
+      "address": "Budapester Straße 45",
+      "path": "/e/sinatra-dinner-show-tickets-1979986560101"
+    },
+    {
+      "time": "20:00",
+      "title": "Beatles Tribute mit  Big Tom and the Bogsnorklers",
+      "venue": "ART Stalker - Kunst + Bar + Events",
+      "address": "Kaiser-Friedrich-Straße 67",
+      "path": "/e/beatles-tribute-mit-big-tom-and-the-bogsnorklers-tickets-1983302830154"
+    },
+    {
+      "time": "20:00",
+      "title": "Game Night Berlin – Drinks, Laughs & Fun Challenges",
+      "venue": "Simon-Dach-Straße 32",
+      "address": "Simon-Dach-Straße 32",
+      "path": "/e/game-night-berlin-drinks-laughs-fun-challenges-tickets-1781460469219"
+    },
+    {
+      "time": "20:00",
+      "title": "Kantinenlesen",
+      "venue": "Alte Kantine Kulturbrauerei",
+      "address": "Knaackstraße 97",
+      "path": "/e/kantinenlesen-tickets-1982668009388"
+    },
+    {
+      "time": "20:00",
+      "title": "Espresso Martini Workshop",
+      "venue": "Großbeerenstraße 32",
+      "address": "Großbeerenstraße 32",
+      "path": "/e/espresso-martini-workshop-tickets-1973067286367"
+    },
+    {
+      "time": "20:30",
+      "title": "MAGNUS HIRSCHFELD SUPERSTAR",
+      "venue": "Bar Zum schmutzigen Hobby",
+      "address": "Revaler Straße 99",
+      "path": "/e/magnus-hirschfeld-superstar-tickets-1982959912478"
+    },
+    {
+      "time": "20:30",
+      "title": "Berlin Night Out – Meet New People & Discover New Bars",
+      "venue": "Simon-Dach-Straße 32",
+      "address": "Simon-Dach-Straße 32",
+      "path": "/e/berlin-night-out-meet-new-people-discover-new-bars-tickets-1478413818529"
     },
     {
       "time": "21:00",
-      "title": "Club Room Party Berlin",
-      "venue": "Paradise Club Berlin",
-      "address": "Bismarckstraße 90",
-      "path": "/e/club-room-party-berlin-tickets-1981813788390"
+      "title": "Ma Baker Party im Silverwings ✪ 80s 90s 00s 10s Disco RnB House Charts",
+      "venue": "Silverwings Club",
+      "address": "Columbiadamm 8-10",
+      "path": "/e/ma-baker-party-im-silverwings-80s-90s-00s-10s-disco-rnb-house-charts-tickets-1984136305100"
     },
     {
-      "time": "21:30",
-      "title": "Space Sessions with AŸA//ALFAIA",
-      "venue": "House of Music",
-      "address": "Revaler Straße 99",
-      "path": "/e/space-sessions-with-ayaalfaia-tickets-1983351215877"
+      "time": "22:00",
+      "title": "Move iT! – die 90er Party @ Kesselhaus",
+      "venue": "Kesselhaus in der Kulturbrauerei",
+      "address": "Knaackstraße 97",
+      "path": "/e/move-it-die-90er-party-kesselhaus-tickets-1978114511754"
+    },
+    {
+      "time": "23:59",
+      "title": "Toxic! - Pop Hits Party • Lido Berlin • 02.05.26",
+      "venue": "Lido",
+      "address": "Cuvrystraße 7",
+      "path": "/e/toxic-pop-hits-party-lido-berlin-020526-tickets-1975744232184"
     }
   ]
 }
